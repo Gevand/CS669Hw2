@@ -113,7 +113,7 @@ namespace CS669GevandBalayanHomework2
                 tempForm.Text = "Image";
                 PictureBox tempBox = new PictureBox();
                 tempBox.Height = 200;
-                tempBox.Width = 200;
+                tempBox.Width = 200; 
                 Bitmap tempBitMap = new Bitmap(8, 8);
                 for (int i = 0; i < 8; i++)
                 {
